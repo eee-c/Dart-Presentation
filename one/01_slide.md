@@ -1,23 +1,30 @@
 !SLIDE
-# Functional Dart #
+# An Intro to Dart #
 ## Chris Strom ##
 ### @eee_c ###
-### B'more on Rails // 2012-01-10 ###
+### BmoreJS // 2012-07-125 ###
 
 !SLIDE bullets incremental
 # Dart
 
-* Awersome
-* Fast
-* Flexible
-* Modern Web
-* Structured
+ * Awersome
+ * Fast
+ * Flexible
+ * Modern Web
+ * Structured
 
 !SLIDE bullets incremental
 # Dart Today
-## (Jan 10, 2012)
+## (Jul 25, 2012)
 
-* No native browser support
-* Can compile to Javascript (like CoffeeScript)
-* Downloadable executables
-* try.dartlang.org
+ * No native browser support
+ * Can compile to Javascript (like CoffeeScript)
+ * Downloadable executables
+ * try.dartlang.org
+
+!SLIDE  bullets incremental
+
+# Dart
+
+ * Familiar syntax
+ * Can serve both JS and Dart depending on browser

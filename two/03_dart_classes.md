@@ -1,18 +1,6 @@
 !SLIDE
 # Dart Classes
 
-## B'more on Rails
-## Chris Strom
-## @eee_c
-
-!SLIDE
-
-# Quick Review
-
- * Familiar syntax
- * Can be compiled to JS
- * Can serve both JS and Dart depending on browser
-
 !SLIDE
 
     @@@ Javascript
@@ -316,10 +304,3 @@ Use the `factory` keyword.
 
     new PrettyName("Chris");
     // => "Pretty Chris"
-
-!SLIDE
-# More Info
-
-## http://dart4hipsters.com
-## http://japhr.blogspot.com
-## @eee_c

@@ -83,7 +83,7 @@
     list.forEach((i) {fib_printer(i)});
 
 !SLIDE
-# Interpolating Strings
+# Interpolating Variables
 
     @@@ javascript
     fib_printer(i) {
@@ -183,9 +183,7 @@
 !SLIDE bullets incremental
 # Limitations
 
-* No Reflection
 * No `arguments`
-* No `method_missing`
 
 _under construction!!!_
 
@@ -193,18 +191,3 @@ _under construction!!!_
 # Implications
 
 * Must pass exact number of arguments
-
-!SLIDE bullets incremental
-# Future Topics
-
-* Classes
-* Types
-* Message Passing
-* DOM // Canvas
-
-!SLIDE
-# More Info
-
-## http://dart4hipsters.com
-## http://japhr.blogspot.com
-## @eee_c
